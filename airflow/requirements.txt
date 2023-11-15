@@ -1,0 +1,10 @@
+selenium
+beautifulsoup4
+lxml
+requests
+numpy
+pandas
+aiohttp
+apache-airflow-providers-http
+apache-airflow-providers-telegram
+SQLAlchemy
