@@ -14,5 +14,7 @@
 - В качестве БД использовал Postgresql, pgAdmin для работы с БД
 - Core слой состоит из 4 нормализированных отношений
 
+![dwh](https://github.com/xorxi12/Analytics-new-building/assets/147392409/696e1eda-230c-49f3-b503-cec4200bd855)
+
 #### Визуализация 
  - Для визуализации данных поднял Superset
