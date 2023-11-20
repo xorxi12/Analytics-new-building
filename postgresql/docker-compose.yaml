@@ -1,0 +1,33 @@
+version: '3'
+services:
+  postgres:
+    image: postgres
+    container_name: postgres
+    restart: always
+    ports:
+      - 5432:5432
+    environment:
+      POSTGRES_USER: your_username
+      POSTGRES_PASSWORD: your_password
+      POSTGRES_DB: your_database
+    volumes:
+      - ./data:/var/lib/postgresql/data
+    networks:
+      - postgresql
+
+  dbeaver:
+    image: dpage/pgadmin4:latest
+    container_name: pgadmin
+    volumes:
+      - ./pgadmin:/root/.pgadmin
+    ports:
+      - 80:80
+    environment:
+      - PGADMIN_DEFAULT_PASSWORD=12345
+      - PGADMIN_DEFAULT_EMAIL=gutguttaa@gmail.com
+    networks:
+      - postgresql
+
+networks:
+  postgresql:
+    driver: bridge
