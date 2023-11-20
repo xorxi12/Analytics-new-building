@@ -18,3 +18,6 @@
 
 #### Визуализация 
  - Для визуализации данных поднял Superset
+
+![пик-2023-11-20T09-12-59 368Z](https://github.com/xorxi12/Analytics-new-building/assets/147392409/293f70d0-198c-420f-a115-148679ee646c)
+[пик-2023-11-20T09-12-13.526Z.pdf](https://github.com/xorxi12/Analytics-new-building/files/13411805/-2023-11-20T09-12-13.526Z.pdf)
