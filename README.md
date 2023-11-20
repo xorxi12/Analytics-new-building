@@ -44,5 +44,5 @@
 #### ЖК с самым большим предложением 
 - При плохом спросе на эти ЖК начнут снижать цены в первую очередь.
 
-![пик-2023-11-20T11-02-42 311Z](https://github.com/xorxi12/Analytics-new-building/assets/147392409/827c8b84-0578-4731-9ed4-2d56554bb654)
+![пик-2023-11-20T17-47-33 993Z](https://github.com/xorxi12/Analytics-new-building/assets/147392409/32d9315f-254d-4d6a-bcad-bc60b5a17a1d)
 
